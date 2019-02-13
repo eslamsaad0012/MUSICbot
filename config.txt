@@ -1,0 +1,6 @@
+owner=531716969045688321
+prefix=*
+game=GHOST | *play
+stayinchannel=true
+songinstatus=false
+token=NTQ1MzIzNzg3NDA3NzIwNDQ5.D0YT7g.COz0VhlmbEaK9wsJmgbysyCY0Uc
